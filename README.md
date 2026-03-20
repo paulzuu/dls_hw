@@ -1,2 +1,2 @@
 # DeepLearningSchool_hw
-Completed homeworks in DLS (1 part - ML/CV)
+Completed projects in DLS (1_sem, ML_CV)
