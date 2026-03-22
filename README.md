@@ -194,7 +194,7 @@ deep_learning_school/
     ```bash
     python -m venv venv
     source venv/bin/activate  # для macOS/Linux
-    # venv\Scripts\activate  # для Windows
+    venv\Scripts\activate  # для Windows
     pip install -r requirements.txt
     ```
 4.  Все ноутбуки изначально разрабатывались в **Google Colab** с GPU-ускорением. Для локального запуска заданий с нейронными сетями (HW 4–6 семестра 1) рекомендуется наличие CUDA-совместимой видеокарты.
